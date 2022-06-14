@@ -1,16 +1,16 @@
 
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "https://www.github.com/username/reponame",
-      "image": "https://www.imgur.com/pictureofproject.png"
+      "name": "All Hail the Pickle",
+      "live": "https://aquamarine-zuccutto-648a92.netlify.app/",
+      "git": "https://github.com/eufuller/Project-1.git",
+      "image": "https://i.imgur.com/1FyICme.png?2"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "https://www.github.com/username/reponame",
-      "image": "https://www.imgur.com/pictureofproject.png"
+      "name": "Avatar-Nations",
+      "live": "https://avatar-atla-community.herokuapp.com/",
+      "git": "https://github.com/eufuller/Project-2--Avatar-Nations.git",
+      "image": "https://i.imgur.com/sfDn4u6.jpg"
     }
   ]
   
